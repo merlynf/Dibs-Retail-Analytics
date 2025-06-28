@@ -13,4 +13,5 @@ This project uses R to analyze customer purchase data, uncover patterns, segment
 - Build predictive models to forecast future sales
 - Deliver actionable business recommendations
 
-## 🛠️ Tools Used: R, RStudio  
+## 🛠️ Tools Used: 
+- R, Rstudio
